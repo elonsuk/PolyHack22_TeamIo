@@ -1,16 +1,5 @@
-# group_payment
+# PolyHack22_Team Io MVP Demonstration
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter project demonstrates the process of creating a transfer request in a chatroom. A transfer request is created by inputting the total amount of cash to be gathered, the total number of payees within the group, the group members who are responsible for the payment, and the due date for the payment.
+<br>While, in this demonstration, the form adding the payment due date is not included.
+<br>API credentials are provided within the code for the Receipt formatting OCR API access. A temporary free-trial account is created; the credentials will be removed on June 5th.
