@@ -9,12 +9,10 @@ import '../views/receipt_details_view.dart';
 
 class ReceiptProcessor {
   Future<dynamic> processReceipt(File image) async {
-    // API Access Credentials for the demonstration. Details will be removed on June 5th.
-    String clientId = 'vrfiMkG67VoppZPPfB9ohIZ3a3xngSJYtkhwNY1';
-    String clientSecret =
-        'RKfigWm4x0pYF5ex0Mp3U8ieznFG1cVkLszx3AUkEjwEVtmZPJvEuXxF1pBehv2RdNFjTotIyEVDYUSF9dGkRD12mZtROcTCcSNsuBg4xxnDb7tB8fnVFpMJOWEoRXb1';
-    String username = 'u4i4gw0278';
-    String apiKey = 'cfeefd92c31c273806c469955f002b76';
+    String clientId = '';
+    String clientSecret = '';
+    String username = '';
+    String apiKey = '';
 
     List<List<String>> itemList = [];
 
